@@ -21,9 +21,9 @@ my $sentences = [
         'Wat doe je het liefst in je vrije tijd?' =>
           'What do you prefer in your spare time?'
     ],
-    [ 'Ga je tegelmatic sporten?' => 'Do you exercise regularly?' ],
+    [ 'Ga je regelmatig sporten?' => 'Do you exercise regularly?' ],
     [
-        'Nee, maar op vakantie find ik buiten dingen leuk.' =>
+        'Nee, maar op vakantie vind ik buiten dingen leuk.' =>
           'No, but on vacation I find outdoor things nice.'
     ],
     [ 'Waar ga je het liefst uit eten'   => 'Where do you like to eat out?' ],
